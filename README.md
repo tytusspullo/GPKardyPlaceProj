@@ -8,7 +8,7 @@ IN PROGRESS
 
 -Wprowadzanie i modyfikacja Absencji i Zmian Czasu ( Dzienna / Nocna / L4 …)
 
--Wyliczanie nadgodzin z tytułu przekroczenia nadgodzin dobowych czy wynikających z przekroczenia zdefiniowanego czasu pracy w miesiącu
+-Wyliczanie nadgodzin z tytułu przekroczeń dobowych czy wynikających z przekroczenia zdefiniowanego czasu pracy w miesiącu
 
 -Wydruki Grafików pracowniczych
 

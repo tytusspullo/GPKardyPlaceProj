@@ -8,10 +8,9 @@ IN PROGRESS
 
 -Wprowadzanie i modyfikacja Absencji i Zmian Czasu ( Dzienna / Nocna / L4 …)
 
--Wydruki Grafików pracowniczych
-
 -Wyliczanie nadgodzin z tytułu przekroczenia nadgodzin dobowych czy wynikających z przekroczenia zdefiniowanego czasu pracy w miesiącu
 
+-Wydruki Grafików pracowniczych
 
 
 ***Employee Schedules and Working Time Records***
